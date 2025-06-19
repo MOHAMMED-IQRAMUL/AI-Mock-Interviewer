@@ -1,0 +1,30 @@
+[
+  {
+    "id": "sde",
+    "title": "SDE Sheet",
+    "description": "Most asked SDE questions for FAANG",
+    "totalTopics": 50,
+    "difficulty": "Mixed"
+  },
+  {
+    "id": "dsa",
+    "title": "DSA AtoZ",
+    "description": "DSA concepts from basics to advanced",
+    "totalTopics": 70,
+    "difficulty": "Easy to Hard"
+  },
+  {
+    "id": "top200",
+    "title": "Top 200 Questions",
+    "description": "Top 200 coding questions for interviews",
+    "totalTopics": 200,
+    "difficulty": "Medium"
+  },
+  {
+    "id": "sysdesign",
+    "title": "System Design Basics",
+    "description": "Essential SD topics for tech interviews",
+    "totalTopics": 20,
+    "difficulty": "Conceptual"
+  }
+]

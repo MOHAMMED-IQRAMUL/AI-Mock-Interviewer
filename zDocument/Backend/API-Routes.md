@@ -11,7 +11,7 @@
 | GET    | `/me`        | Get logged-in user details |
 
 ### **User Routes (`/api/user`)**
-
+    
 | Method | Endpoint      | Description |
 |--------|--------------|-------------|
 | GET    | `/profile`   | Get user profile |

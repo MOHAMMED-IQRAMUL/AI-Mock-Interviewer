@@ -15,7 +15,7 @@
 │   │   ├── aiController.js
 │   │
 │   ├── /routes         # API route definitions
-│   │   ├── authRoutes.js
+│   │   ├── authRoutes.js    
 │   │   ├── interviewRoutes.js
 │   │   ├── userRoutes.js
 │   │   ├── aiRoutes.js

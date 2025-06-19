@@ -1,0 +1,32 @@
+{
+  "sde": [
+    {
+      "name": "Arrays",
+      "difficulty": "Easy",
+      "links": {
+        "leetcode": "https://leetcode.com/tag/array",
+        "gfg": "https://www.geeksforgeeks.org/array-data-structure/"
+      }
+    },
+    {
+      "name": "Linked List",
+      "difficulty": "Medium",
+      "links": {
+        "leetcode": "https://leetcode.com/tag/linked-list",
+        "gfg": "https://www.geeksforgeeks.org/data-structures/linked-list/"
+      }
+    }
+  ],
+  "dsa": [
+    {
+      "name": "Stacks",
+      "difficulty": "Easy",
+      "links": {
+        "leetcode": "https://leetcode.com/tag/stack",
+        "gfg": ""
+      }
+    }
+  ],
+  "top200": [],
+  "sysdesign": []
+}
