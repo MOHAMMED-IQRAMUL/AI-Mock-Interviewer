@@ -21,29 +21,29 @@ import SheetDetails from './pages/practive/SheetDetails';
 
 export default function App() {
   return (
-    <Router basename="/AI-Mock-Interviewer">
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/dashboard" element={<Dashboard />} />
-        <Route path="/practice" element={<Practice />} />
-        <Route path="/practice/:sheetId" element={<SheetDetails />} />
 
-        <Route path="/interviews" element={<Interviews />} />
-        <Route path="/interview/start" element={<InterviewSession />} />
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/dashboard" element={<Dashboard />} />
+      <Route path="/practice" element={<Practice />} />
+      <Route path="/practice/:sheetId" element={<SheetDetails />} />
 
-        <Route path="/resources" element={<Resources />} />
-        <Route path="/resources/dsa" element={<DSA />} />
-        <Route path="/resources/core" element={<Core />} />
-        <Route path="/resources/hr" element={<HR />} />
-        <Route path="/resources/nontech" element={<NonTech />} />
-        <Route path="/resources/sheets" element={<Sheets />} />
-        <Route path="/resources/projects" element={<Projects />} />
-        <Route path="/resources/webdev" element={<Webdev />} />
-        <Route path="/resources/resume" element={<Resume />} />
+      <Route path="/interviews" element={<Interviews />} />
+      <Route path="/interview/start" element={<InterviewSession />} />
 
-        {/* Catch-all route for 404 */}
-        <Route path="*" element={<NotFound />} />
-      </Routes>
-    </Router>
+      <Route path="/resources" element={<Resources />} />
+      <Route path="/resources/dsa" element={<DSA />} />
+      <Route path="/resources/core" element={<Core />} />
+      <Route path="/resources/hr" element={<HR />} />
+      <Route path="/resources/nontech" element={<NonTech />} />
+      <Route path="/resources/sheets" element={<Sheets />} />
+      <Route path="/resources/projects" element={<Projects />} />
+      <Route path="/resources/webdev" element={<Webdev />} />
+      <Route path="/resources/resume" element={<Resume />} />
+
+      {/* Catch-all route for 404 */}
+      <Route path="*" element={<NotFound />} />
+    </Routes>
+
   );
 }
