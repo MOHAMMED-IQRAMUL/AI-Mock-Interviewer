@@ -45,8 +45,9 @@ Practice behavioral and technical interviews, solve coding sheets, explore resou
 #### 📦 Clone & Setup
 
 ```bash
-# git clone https://github.com/mohammed-iqramul/ai-mock-interviewer.git
-# cd ai-mock-interviewer
+git clone https://github.com/mohammed-iqramul/ai-mock-interviewer.git
+cd ai-mock-interviewer
+cd frontend
 npm install
 ```
 
