@@ -25,7 +25,7 @@ dist-ssr
 *.sw?
 
 
-# zDocument/
+zDocument/
 
 .env
 config.py

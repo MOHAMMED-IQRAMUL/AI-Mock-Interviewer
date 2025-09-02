@@ -97,7 +97,22 @@ src/
 
 --- -->
 
-### 🙌 Future Improvements
+### 📖 Documentation
+
+See the full docs in `DOCUMENTAION/`:
+
+* Overview
+* Architecture
+* Frontend Guide
+* Data & Configuration
+* Interviews Module
+* Resources & Practice
+* Deployment
+* Roadmap
+
+---
+
+### �🙌 Future Improvements
 
 * PDF Export of summary reports
 * User authentication and dashboard
